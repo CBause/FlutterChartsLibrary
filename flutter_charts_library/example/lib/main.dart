@@ -20,8 +20,9 @@ class FlutterChartsLibraryExample extends StatelessWidget {
           title: Text(_appTitle),
         ),
         body: BaseChart(
-            key: UniqueKey(),
-            padding: Padding(padding: EdgeInsets.all(_padding))),
+            //key: UniqueKey(),
+            //padding: Padding(padding: EdgeInsets.all(_padding))),
+            ),
       ),
     );
   }

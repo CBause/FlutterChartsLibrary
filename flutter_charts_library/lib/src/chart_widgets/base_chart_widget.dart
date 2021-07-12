@@ -17,7 +17,7 @@ class _BaseChartState extends State<BaseChart> {
   @override
   void initState() {
     super.initState();
-    WidgetsBinding.instance.addPostFrameCallback((_)
+    //WidgetsBinding.instance.addPostFrameCallback((_)
   }
 
   @override
